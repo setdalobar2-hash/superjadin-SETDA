@@ -1,0 +1,8 @@
+{
+  "name": "SIPERJADIN — Bagian Umum Setda Lombok Barat",
+  "description": "Aplikasi Administrasi Perjalanan Dinas Bagian Umum Sekretariat Daerah Kabupaten Lombok Barat: Kwitansi, Daftar Penerimaan, Pengeluaran Riil, SPTJM, Laporan SPPD KOP Garuda & Setda, Referensi OLD & NEW SHS 2026, Persetujuan Otomatis, dan Export Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
